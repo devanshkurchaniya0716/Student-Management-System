@@ -20,7 +20,7 @@ A simple Student Management System developed using Python.
 ## How to Run
 1. Download the project.
 2. Open the project in PyCharm or VS Code.
-3. Run main.py.
+3. Run front.py.
 4. Select an option from the menu.
 
 ## Developed By
